@@ -16,7 +16,7 @@ To access the data and information collected or to view the process of creating 
 ## Visualizations
 Below are some of the key visualizations created using Matplotlib and Seaborn. Please note these visualizations are prior to the Gurobipy solver solving the problem.
 
-![Seaborn Visualization 1](["C:\Users\Luke Wolf\Downloads\CO2 per Miles Linear Regression.png"](https://drive.google.com/file/d/1o-4nYdizC61w8_MrNHu3vybSZcFu3XTH/view?usp=sharing))
+![Visualization 1](lawolf8/Fleet-Replacement-Electrification-Problem/FREP Visualizations/Transportation Sector Energy Prices, South Atlantic.png)
 *Figure 1: Transportation Sector Energy Prices, South Atlantic*
 
 ### Visualization Code Example: Transportation Sector Energy Prices, South Atlantic
